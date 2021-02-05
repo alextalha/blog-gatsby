@@ -1,0 +1,10 @@
+arquivo de config 
+
+gatsby-config.js
+
+
+gatsby develop ele já tem um auto reload da aplicação 
+
+/public = os arquivos estáticos estarão aqui. 
+
+ß
