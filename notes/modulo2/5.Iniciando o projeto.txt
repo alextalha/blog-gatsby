@@ -1,0 +1,16 @@
+#instalando o gatsby 
+
+https://www.gatsbyjs.com/docs/tutorial/part-zero/
+https://www.gatsbyjs.com/docs/quick-start/
+
+npm install -g gatsby-cli
+
+#criando um boilerplate
+
+gatsby new my-blog
+
+gatsby -help
+
+gatsby develop 
+
+localhost:8000
