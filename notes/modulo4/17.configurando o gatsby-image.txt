@@ -1,0 +1,13 @@
+https://www.gatsbyjs.com/plugins/gatsby-image/
+
+gatsby-plugin-sharp = responsavel por implementar a imagem no gatsby
+
+gatsby-transformer-sharp = responsável pra fazer os tratamentos das imagens
+
+esses plugins já vem instalados por padrão 
+
+configurado em gatsby-config.js
+
+
+setando o path dos arquivos 
+

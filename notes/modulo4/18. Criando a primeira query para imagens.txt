@@ -1,0 +1,12 @@
+https://github.com/willianjusten/gatsby-course/commit/127ee31fb668333930b43d3640f78ff6c2481c7f
+
+https://www.gatsbyjs.com/plugins/gatsby-image/
+
+ avatarImage : file(relativePath: { eq: "profile.png "}){
+            childImageSharp {
+                fixed(width: 60,height:60) {
+                ...GatsbyImageSharpFixed_tracedSVG  <---- aqui é onde são configurado o plugin do componente
+                }
+            }
+        }
+        }

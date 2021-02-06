@@ -1,0 +1,11 @@
+npm install --save styled-components
+
+
+ele gera nomes unicos para as classes 
+components não utilizos ele não renderizará o css
+
+
+// plugins para trabalhar o styled components no gatsby 
+npm install --save gatsby-plugin-styled-components
+
+
