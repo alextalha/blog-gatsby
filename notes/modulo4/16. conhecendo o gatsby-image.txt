@@ -1,0 +1,4 @@
+https://using-gatsby-image.gatsbyjs.org/
+
+melhoria na performance das imagens.
+
