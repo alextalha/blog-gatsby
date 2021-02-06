@@ -1,0 +1,13 @@
+
+
+Para estilizarmos um componente em vez de um seletor html faremos desta forma 
+
+https://github.com/willianjusten/gatsby-course/commit/d509ed008dc151f4015f518cef2fe684c8f538d6
+
+import Img from "gatsby-image"
+
+export const AvatarWrapper = styled(Img)`
+  border-radius: 50%;
+  height: 3.75rem;
+  margin: auto;
+  width: 3
