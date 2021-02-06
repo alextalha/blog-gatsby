@@ -1,0 +1,11 @@
+trocar a ide do graphql do projeto 
+
+
+trocar no package 
+
+
+npm install --save-dev cross-env
+
+GATSBY_GRAPHQL_IDE=playground gatsby developer
+
+npm run develop:playground

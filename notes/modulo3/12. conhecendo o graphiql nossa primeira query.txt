@@ -1,0 +1,22 @@
+localhost:8000/__graphql
+
+exemplo de query 
+
+query MyQuery {
+  siteMetadata {
+    id
+  }
+}
+
+query MyQuery {
+  site(siteMetadata: {title: {eq: "My Blog"}}) {
+    siteMetadata {
+      author
+      description
+      title
+    }
+  }
+}
+
+
+

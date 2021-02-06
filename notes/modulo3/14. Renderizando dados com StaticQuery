@@ -1,0 +1,7 @@
+
+
+Static query
+
+
+caso fizermos alteração no sitemetadata ou plugins. ao alterar/ criar campos. precisamos restartar o servidor 
+se não graphql não ira puxar as novas informações 

@@ -1,0 +1,10 @@
+graphql 
+
+novo meio de requisição de dados.
+
+mesmo endpoint e mais performático. altamente desacoplado
+
+em uma query só receberemos os dados pedidos em um json schema. 
+economia de IO.
+
+Permite evolução constante
