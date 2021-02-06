@@ -1,0 +1,6 @@
+usaremos o styled icons 
+
+arquivos js sem a primeira letra maiscula não será componente será funções js normais 
+
+https://styled-icons.js.org/
+
