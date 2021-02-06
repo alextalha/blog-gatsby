@@ -1,0 +1,4 @@
+com o módulo de Link sendo carregado o gatsby já faz um refetch dos dados para dar aquela impressão de que
+a página carregou antes de entrar nela 
+
+https://www.gatsbyjs.com/docs/gatsby-link

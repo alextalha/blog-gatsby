@@ -1,0 +1,1 @@
+para criar uma página é só criar um arquivo react dentro da pasta /pages
