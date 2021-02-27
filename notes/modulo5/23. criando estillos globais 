@@ -1,6 +1,0 @@
-uma das causas de usar estilos globais é para como o nome já diz um componentes que sejam
-disponibilizados para todos. 
-
-https://styled-components.com/docs/api#createglobalstyle
-
-https://github.com/willianjusten/gatsby-course/commit/d3ba883ece66639424c81514affbc73f58aa3c57
